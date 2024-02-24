@@ -13,7 +13,7 @@ const testimonialData: Testimonial[] = [
     name: "Swathi Natarajan",
     designation: "CTO at Karmadev.in",
     content:
-      "Fresh Spar Technologies delivers their product and services in very efficient and timely manner",
+      "Driving the electric car with the automatic seatbelt and door functionalities felt like stepping into the future.",
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
@@ -22,7 +22,7 @@ const testimonialData: Testimonial[] = [
     name: "Vishal Chinnasamy",
     designation: "Co-Founder @A2zTechvalley",
     content:
-      "Fresh Spar Technologies Excels in shifts and effective delivery of innovative solutions",
+      "The electric car's automatic seatbelt and door system, combined with the app and voice control, offer a level of convenience and safety that I've never experienced before.",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
