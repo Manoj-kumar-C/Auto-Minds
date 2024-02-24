@@ -22,7 +22,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Auto Minds - An Innovative Company ",
-  description: "Fresh Spar Technologies is your partner for innovative web design, mobile app development, digital marketing, and branding solutions. Our mission is to empower businesses of all sizes with a strong online presence that reflects their unique identity. Discover how we combine creativity, innovation, and technical expertise to exceed your online goals.",
+  description: "Auto Minds is your partner for innovative web design, mobile app development, digital marketing, and branding solutions. Our mission is to empower businesses of all sizes with a strong online presence that reflects their unique identity. Discover how we combine creativity, innovation, and technical expertise to exceed your online goals.",
   // other metadata
 };
 

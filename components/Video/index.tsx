@@ -23,7 +23,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="We are ready to help"
-          paragraph="We provide various services such as Video Editing, Web Development, App Development, Digital Marketing etc.."
+          paragraph="We provide various services such as Retrofitting, Developing EV's and innovative technologies etc.. "
           center
           mb="80px"
         />

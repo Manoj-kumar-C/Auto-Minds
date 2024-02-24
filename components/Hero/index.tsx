@@ -26,13 +26,13 @@ const Hero = () => {
           <div className="w-full px-4 md:w-1/2" data-aos="fade-right">
             <div className="mx-auto max-w-[800px] text-center">
               <h1 className="mb-5 text-3xl font-bold leading-tight text-green-500 dark:text-green-400 sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                <b>Advanced Future</b>
+                <b>Auto Minds</b>
               </h1>
               <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                 <b>Software Made Simple</b>
               </h1>
               <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                <b>We convert your <span className="text-blue-300"> dreams </span>into<span className="text-green-500"> Reality </span></b>
+                <b>Stepping into <span className="text-blue-300">the futuristic </span><span className="text-green-500">  Evolution </span></b>
               </p>
               {/* <p className="mb-12 text-base !leading-relaxed text-black dark:text-white sm:text-lg md:text-xl">
                 <b>We Provide services Like</b>
@@ -42,14 +42,15 @@ const Hero = () => {
                   <TypeAnimation
                     sequence={[
                       // Same substring at the start will only be typed once, initially
-                      "Marketing",
+                      "Retrofitting",
                       1000,
-                      "Web Dev",
+                      "Automatic Seat Belt",
                       1000,
-                      "App Dev",
+                      "Automatic Doors",
                       1000,
-                      "Video Editing",
+                      "Smart System",
                       1000,
+                      
                     ]}
                     speed={50}
                     style={{ fontSize: "2em" }}
