@@ -37,8 +37,8 @@ const HomeSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Don't Have Tech Any Support ?"
-                paragraph="Our"
+                title="Obstacles ahead ? "
+                paragraph="If you encounter any challenges in your innovative journey. We are bridge on your Journey"
                 mb="44px"
               />
 
