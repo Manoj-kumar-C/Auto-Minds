@@ -21,7 +21,7 @@ import ClientComponent from "@/components/client/client";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Fresh Spar Technologies - An Innovative Company ",
+  title: "Auto Minds - An Innovative Company ",
   description: "Fresh Spar Technologies is your partner for innovative web design, mobile app development, digital marketing, and branding solutions. Our mission is to empower businesses of all sizes with a strong online presence that reflects their unique identity. Discover how we combine creativity, innovation, and technical expertise to exceed your online goals.",
   // other metadata
 };
@@ -40,13 +40,16 @@ export default function Home() {
           center
           mb="80px" />
       <Features />
-      <HomeSectionTwo />
+      {/* <HomeSectionTwo /> */}
+      {/*
       <TitleService title="Our Marketing"
           paragraph="We provide various marketing services in various Fields"
           center
           mb="80px" />
       <FeaturesTwo />
+      */}
       <Testimonials />
+  
       <ClientComponent/>
       <Maps />
       {/* <Accordion data={[
