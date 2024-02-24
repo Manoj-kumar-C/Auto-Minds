@@ -22,7 +22,7 @@ const Features = () => {
       ),
       title: "Retrofitting",
       paragraph:
-        "Transforming ideas into captivating visual stories.",
+        "Empower your space for the future with our retrofitting solutions.",
     },
     {
       id: 1,
@@ -31,7 +31,7 @@ const Features = () => {
       ),
       title: "Developing Ev's",
       paragraph:
-        "Crafting digital experiences that redefine your online presence",
+        "Empower your journey with our cutting-edge EV development.",
     },
     {
       id: 1,
@@ -40,7 +40,7 @@ const Features = () => {
       ),
       title: "Design Development",
       paragraph:
-        "Unlock your website's potential with our custom CMS development",
+        "Elevate your vision with our design development prowess.",
     },
     {
       id: 1,
@@ -49,14 +49,14 @@ const Features = () => {
       ),
       title: "Smart System Development",
       paragraph:
-        "Crafting innovation one app at a time – trust us for your development journey.",
+        "Transform your operations with our innovative approach to smart system development",
     },
     {
       id: 1,
       icon: (
         <Image src='/images/services/ecommerce.png' alt="image" width={100} height={100}/>
       ),
-      title: " Development",
+      title: "Car Automatic Systems",
       paragraph:
         "Elevate your online business with our tailor-made e-commerce solutions",
     },
@@ -65,7 +65,7 @@ const Features = () => {
       icon: (
         <Image src='/images/services/platform-development.png' alt="image" width={100} height={100}/>
       ),
-      title: "Platform Development",
+      title: "MQTT Development",
       paragraph:
         "Building platforms that elevate your vision to new heights",
     },
