@@ -47,7 +47,7 @@ const Brands = () => {
   return (
     <section className="pt-16 bg-gray-100 dark:bg-gray-900" data-aos="fade-up">
       <div className="container">
-      <h2 className="text-4xl font-bold text-center text-black dark:text-white mb-8">Our <span className='text-green-500'> Clients </span></h2>
+      <h2 className="text-4xl font-bold text-center text-black dark:text-white mb-8">Our <span className='text-green-500'> Team</span></h2>
 
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
           {brandsData.map((brand) => (
