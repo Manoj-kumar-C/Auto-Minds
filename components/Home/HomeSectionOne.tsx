@@ -38,7 +38,7 @@ const HomeSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Don't Have Tech Any Support ?"
-                paragraph="We have experienced developers in various Domains to convert your dreams into reality"
+                paragraph="Our"
                 mb="44px"
               />
 
@@ -48,15 +48,15 @@ const HomeSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Digital Marketing" />
-                    <List text="Web Designing" />
-                    <List text="Branding" />
+                    <List text="Retrofitting" />
+                    <List text="Developing Ev's" />
+                    <List text="Mechanical Domains" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Web Application" />
-                    <List text="Video Marketing" />
-                    <List text="Technology" />
+                    <List text="CAE" />
+                    <List text="Electrical Domains" />
+                    <List text="IOT's" />
                   </div>
                 </div>
               </div>
