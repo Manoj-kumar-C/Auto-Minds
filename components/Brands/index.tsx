@@ -27,8 +27,10 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
         rel="follow noreferrer"
         className="relative h-20 w-20 opacity-70 transition hover:opacity-100"
       >
-        <Image src={image} alt={name} height={80} width={80} className='rounded-full' />
+        <Image src={image} alt={name} height={100} width={150} className='rounded-full' />
       </a>
+      <br/>
+      <br/>
       <p className="text-xs mt-2 text-center"><b>{name}</b></p> {/* Display company name */}
     </div>
   );
