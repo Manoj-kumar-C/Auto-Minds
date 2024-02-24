@@ -35,8 +35,8 @@ export default function Home() {
       <Video />
       <Brands />
       <HomeSectionOne /><br /><br />
-      <TitleService title="Our Technical"
-          paragraph="We provide various technical services in various Fields"
+      <TitleService title="Our "
+          paragraph="We provide services in various Fields"
           center
           mb="80px" />
       <Features />
