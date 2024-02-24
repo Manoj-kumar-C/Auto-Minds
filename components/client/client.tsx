@@ -21,7 +21,7 @@ const ClientComponent: React.FC = () => {
             onExit={() => setCounterOn(false)} // Reset CounterOn when the component exits the viewport
           >
             {/* Conditionally render CountUp based on CounterOn state */}
-            {CounterOn && <CountUp start={0} end={10} duration={5} redraw={true} />} +
+            {CounterOn && <CountUp start={0} end={2} duration={5} redraw={true} />} +
           </ScrollTriggerAny>
         </p>
       </div>
@@ -33,7 +33,7 @@ const ClientComponent: React.FC = () => {
             onExit={() => setCounterOn(false)} // Reset CounterOn when the component exits the viewport
           >
             {/* Conditionally render CountUp based on CounterOn state */}
-            {CounterOn && <CountUp start={0} end={10} duration={5} redraw={true} />} +
+            {CounterOn && <CountUp start={0} end={3} duration={5} redraw={true} />} +
           </ScrollTriggerAny>
         </p>
       </div>
