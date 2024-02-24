@@ -20,7 +20,7 @@ const Features = () => {
       icon: (
         <Image src='/images/services/graphic-design.png' alt="image" width={100} height={100}/>
       ),
-      title: "Graphic Design",
+      title: "Retrofitting",
       paragraph:
         "Transforming ideas into captivating visual stories.",
     },
@@ -29,7 +29,7 @@ const Features = () => {
       icon: (
         <Image src='/images/services/web-development.png' alt="image" width={100} height={100}/>
       ),
-      title: "Web Development",
+      title: "Developing Ev's",
       paragraph:
         "Crafting digital experiences that redefine your online presence",
     },
@@ -38,7 +38,7 @@ const Features = () => {
       icon: (
         <Image src='/images/services/cms-development.png' alt="image" width={100} height={100}/>
       ),
-      title: "CMS Development",
+      title: "Design Development",
       paragraph:
         "Unlock your website's potential with our custom CMS development",
     },
@@ -47,7 +47,7 @@ const Features = () => {
       icon: (
         <Image src='/images/services/app-development.png' alt="image" width={100} height={100}/>
       ),
-      title: "App Development",
+      title: "Smart System Development",
       paragraph:
         "Crafting innovation one app at a time – trust us for your development journey.",
     },
@@ -56,7 +56,7 @@ const Features = () => {
       icon: (
         <Image src='/images/services/ecommerce.png' alt="image" width={100} height={100}/>
       ),
-      title: "E-Commerce Development",
+      title: " Development",
       paragraph:
         "Elevate your online business with our tailor-made e-commerce solutions",
     },
