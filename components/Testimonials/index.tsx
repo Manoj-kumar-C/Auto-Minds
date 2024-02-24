@@ -31,19 +31,11 @@ const testimonialData: Testimonial[] = [
     name: "SasiDharan",
     designation: "CTO @A2zTechvalley",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "The electric vehicle, featuring automatic seatbelt and door systems, showcases an impressive blend of innovation and practicality",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
-  {
-    id: 4,
-    name: "Kathir",
-    designation: "Founder @Athiyan Kings Farms",
-    content:
-      "Experience with Fresh Spar has been exceptional, commit to rapid and high-quality product delivery .",
-    image: "/images/testimonials/auth-03.png",
-    star: 5,
-  },
+  
 ];
 const Testimonials = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
