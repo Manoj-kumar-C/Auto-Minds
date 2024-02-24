@@ -5,14 +5,14 @@ const brandsData: Brand[] = [
     id: 1,
     name: "Shijo Joseph",
     href: "",
-    image: "/images/brands/karmadev.in.png",
+    image: "/images/team/joseph.jpg",
     imageLight: "/images/brands/karmadev.in.png",
   },
   {
     id: 2,
     name: "Ramkumar",
     href: "",
-    image: "/images/brands/a2ztechvalley.png",
+    image: "/images/team/ramkumar.jpg",
     imageLight: "/images/brands/a2ztechvalley.png",
   },
   {
