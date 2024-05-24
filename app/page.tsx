@@ -21,8 +21,8 @@ import ClientComponent from "@/components/client/client";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Auto Minds - An Innovative Company ",
-  description: "Auto Minds is your partner for innovative web design, mobile app development, digital marketing, and branding solutions. Our mission is to empower businesses of all sizes with a strong online presence that reflects their unique identity. Discover how we combine creativity, innovation, and technical expertise to exceed your online goals.",
+  title: "Auto Minds - designed by Fresh Spar Technologies ",
+  description: "Designed by Fresh Spar Technologies",
   // other metadata
 };
 
