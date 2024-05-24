@@ -10,8 +10,8 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Swathi Natarajan",
-    designation: "CTO at Karmadev.in",
+    name: "Manojkumar C",
+    designation: "CTO at Fresh Spar Technologies",
     content:
       "Driving the electric car with the automatic seatbelt and door functionalities felt like stepping into the future.",
     image: "/images/testimonials/auth-01.png",
@@ -19,8 +19,8 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 2,
-    name: "Vishal Chinnasamy",
-    designation: "Co-Founder @A2zTechvalley",
+    name: "Manojkumar C",
+    designation: "CTO at Fresh Spar Technologies",
     content:
       "The electric car's automatic seatbelt and door system, combined with the app and voice control, offer a level of convenience and safety that I've never experienced before.",
     image: "/images/testimonials/auth-02.png",
@@ -28,8 +28,8 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 3,
-    name: "SasiDharan",
-    designation: "CTO @A2zTechvalley",
+    name: "Manojkumar C",
+    designation: "CTO at Fresh Spar Technologies",
     content:
       "The electric vehicle, featuring automatic seatbelt and door systems, showcases an impressive blend of innovation and practicality",
     image: "/images/testimonials/auth-03.png",
